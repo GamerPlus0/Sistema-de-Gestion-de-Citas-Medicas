@@ -1,5 +1,5 @@
 # Sistema de Gestion de Citas Medicas
-Este proyecto implementa un sistema básico de gestión de citas médicas utilizando SQL. El objetivo es diseñar y construir una base de datos que pueda registrar pacientes, médicos, especialidades y agendar citas.
+Este proyecto implementa un sistema básico de gestión de citas médicas utilizando SQL. El objetivo es diseñar y construir una base de datos que pueda registrar pacientes, médicos, especialidades y agendar citas
 
 ## Contenido
 - Diccionario de Datos
